@@ -1,0 +1,2 @@
+不同GC和堆内存的总结
+https://www.wolai.com/4eGKXjmZd6p5NRNChZ4GYw?theme=light
